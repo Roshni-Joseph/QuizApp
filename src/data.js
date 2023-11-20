@@ -4,7 +4,7 @@ const data = [
     incorrectAnswers: [
       "Computer Style Sheets",
       "Creative Style Sheets",
-      "Colorful Style Sheets",
+      "Coloured Style Sheets",
     ],
     correctAnswer: "Cascading Style Sheets",
   },
